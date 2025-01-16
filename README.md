@@ -1,2 +1,2 @@
 # ExerciciosJS
- Alguns Exercícios de Javascript
+ Repositório com alguns exercícios de Javascript
